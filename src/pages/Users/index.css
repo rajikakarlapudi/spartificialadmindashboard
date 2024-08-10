@@ -1,0 +1,18 @@
+.users-page {
+    padding: 20px;
+    margin-left: 220px;
+  }
+  
+  .kpis {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .total-users{
+    background-color: #4CAF50;
+  }
+
+  .active-users{
+    background-color: #2196F3; 
+  }
